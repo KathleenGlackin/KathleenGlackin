@@ -2,7 +2,9 @@
 
 I've spent the past 6+ years focusing primarily on custom WordPress theme development, with the occasional foray into other systems when the project called for it. Recently I've started broadening my horizons and delving into React, with my [portfolio site](https://kathleenglackin.com) serving as my inaugural project.
 
+<!--
 ![Kathleen's Stats](https://github-readme-stats.vercel.app/api?username=KathleenGlackin&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+-->
 
 ## 🚀 About Me
 
