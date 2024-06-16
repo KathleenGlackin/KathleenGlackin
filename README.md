@@ -8,7 +8,7 @@ I've spent the past 6+ years focusing primarily on custom WordPress theme develo
 
 ## 🚀 About Me
 
-I worked at an agency for 6 years and worked with a wide variety of clients, including the National Dog Show, the University of Pennsylvania, and Constellation. Currently I work at [PowerSchool](https://www.powerschool.com/) as a senior web developer and when I'm not in front of a computer I can be found building LEGO sets or putting together a jigsaw puzzle.
+I worked at an agency for 6 years and with a wide variety of clients, including the National Dog Show, the University of Pennsylvania, and Constellation. Currently I work at [PowerSchool](https://www.powerschool.com/) as a senior web developer and when I'm not in front of a computer I can be found building LEGO sets or putting together a jigsaw puzzle.
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=wordpress,react,js,jquery,php,html,bootstrap,css,sass)](https://skillicons.dev)
@@ -17,10 +17,11 @@ I worked at an agency for 6 years and worked with a wide variety of clients, inc
 
 - 🚀 Learning React
 - Creating filters and implementing asynchronous loading on custom post types in WordPress using AJAX
+- Exploring using WordPress as a Headless CMS with React
 <!--
  ## 🏆 Achievements
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+- 🌟
 -->
 
 ## 📬 Get in Touch
