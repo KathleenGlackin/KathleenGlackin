@@ -16,7 +16,7 @@ I worked at an agency for 6 years and with a wide variety of clients, including 
 ## 🌱 Currently Exploring
 
 - 🚀 Learning React
-- Creating filters and implementing asynchronous loading on custom post types in WordPress using AJAX
+- Automating WordPress project initialization with Python and Windows Bash Scripting
 - Exploring using WordPress as a Headless CMS with React
 <!--
  ## 🏆 Achievements
