@@ -18,3 +18,5 @@ I worked at an agency for 6 years and with a wide variety of clients, including 
 ## Get in Touch
 
 - Check out my [portfolio](https://kathleenglackin.com)
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=KathleenGlackin.visitor-badge)
