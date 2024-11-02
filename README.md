@@ -1,6 +1,6 @@
 # Hi, I'm Kathleen! 👋
 
-I've spent the past 7 years focusing primarily on custom WordPress theme development, with the occasional foray into other systems when the project called for it. Recently I've started broadening my horizons and delving into React, with my [portfolio site](https://kathleenglackin.com) serving as my inaugural project.
+I’ve been developing custom WordPress themes since 2017, with the occasional foray into other systems when the project called for it. Recently I've started broadening my skill set by exploring Astro and Tailwind CSS.
 
 ## About Me
 
@@ -13,7 +13,7 @@ I worked at an agency for 6 years and with a wide variety of clients, including 
 
 - 🚀 Learning Astro
 - Automating WordPress project initialization with Python and Windows Bash Scripting
-- Using WordPress as a Headless CMS with React
+- Using WordPress as a Headless CMS
 
 ## Get in Touch
 
